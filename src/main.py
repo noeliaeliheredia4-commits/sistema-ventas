@@ -4,3 +4,8 @@ print("1 - Ver productos")
 print("2 - Nueva venta")
 print("3 - Salir")
 print(" Gracias por usar el sistema!")
+opcion = input("elegi una opcion:")
+if opcion == "1":
+    archivo = open("../datos/productos.txt")
+    print(archivo.read())
+    archivo.close()
