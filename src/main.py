@@ -1,0 +1,6 @@
+print("===SISTEMA DE VENTAS===")
+print("Bienvenida Noe!")
+print("1 - Ver productos")
+print("2 - Nueva venta")
+print("3 - Salir")
+print(" Gracias por usar el sistema!")
