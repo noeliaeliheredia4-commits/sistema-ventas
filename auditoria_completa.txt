@@ -1,0 +1,13 @@
+AUDITORIA COMPLETA - SISTEMA DE VENTAS
+Alumna: Noelia Heredia
+Repositorio: sistema-ventas
+FASE 1 - Dia 1: Despliegue de la estructura base 
+Se crearon las carpetas datos, src y el archivo README.md 
+FASE 2 - Dia 2: Agrego main.py y productos
+Se agrego el archivo src.main.py y datos/productos.txt
+FASE 3 - Arreeglo main.py y agrega opcion 1
+Se arreglo main.py y se agrego la opcion 1
+FASE 4 - Verificacion
+Se verifico que esten los tres commits y todos los archivos.
+FASE 5 - Cierre de auditoria y entrega final 
+Se creo este archivo auditoria_completa.txt 
